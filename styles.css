@@ -8,3 +8,6 @@ ul{
   margin-right: 1rem;
   list-style: none;
 }
+li {
+  margin-right: 16px;
+}
